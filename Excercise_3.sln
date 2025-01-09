@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise_3", "Excercise_3\Excercise_3.csproj", "{F1ED4DA8-93BA-4D27-9230-8A593DDB186F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dialog", "Excercise_3\Dialog.csproj", "{F1ED4DA8-93BA-4D27-9230-8A593DDB186F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{A67A9B7A-6771-4315-8036-EB4F49BF1DD7}"
 EndProject

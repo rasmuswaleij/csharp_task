@@ -19,7 +19,7 @@ public class UserFactory_tests
     {
         var userRegistrationform = new UserRegistrationForm()
         {
-            FirstName = "Rasmus",
+            Name = "Rasmus",
             Email = "rasmus@domain.com"
         };
 
@@ -27,7 +27,7 @@ public class UserFactory_tests
 
         Assert.NotNull(result);
         Assert.IsType<Users>(result);
-        Assert.Equal(result.FirstName, userRegistrationform.FirstName);
+        Assert.Equal(result.Name, userRegistrationform.Name);
         Assert.Equal(result.Email, userRegistrationform.Email);
     }
 }
